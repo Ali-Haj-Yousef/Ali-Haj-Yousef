@@ -9,9 +9,7 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
+  
  🌱 I’m currently learning **C++, ASP.NET Core, C#**
 
  </div>
